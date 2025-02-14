@@ -1,0 +1,14 @@
+C:\Users\phillype.alves\source\repos\TesteDeCadastro\TesteDeCadastro\bin\Debug\net8.0\TesteDeCadastro.exe
+C:\Users\phillype.alves\source\repos\TesteDeCadastro\TesteDeCadastro\bin\Debug\net8.0\TesteDeCadastro.deps.json
+C:\Users\phillype.alves\source\repos\TesteDeCadastro\TesteDeCadastro\bin\Debug\net8.0\TesteDeCadastro.runtimeconfig.json
+C:\Users\phillype.alves\source\repos\TesteDeCadastro\TesteDeCadastro\bin\Debug\net8.0\TesteDeCadastro.dll
+C:\Users\phillype.alves\source\repos\TesteDeCadastro\TesteDeCadastro\bin\Debug\net8.0\TesteDeCadastro.pdb
+C:\Users\phillype.alves\source\repos\TesteDeCadastro\TesteDeCadastro\obj\Debug\net8.0\TesteDeCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phillype.alves\source\repos\TesteDeCadastro\TesteDeCadastro\obj\Debug\net8.0\TesteDeCadastro.AssemblyInfoInputs.cache
+C:\Users\phillype.alves\source\repos\TesteDeCadastro\TesteDeCadastro\obj\Debug\net8.0\TesteDeCadastro.AssemblyInfo.cs
+C:\Users\phillype.alves\source\repos\TesteDeCadastro\TesteDeCadastro\obj\Debug\net8.0\TesteDeCadastro.csproj.CoreCompileInputs.cache
+C:\Users\phillype.alves\source\repos\TesteDeCadastro\TesteDeCadastro\obj\Debug\net8.0\TesteDeCadastro.dll
+C:\Users\phillype.alves\source\repos\TesteDeCadastro\TesteDeCadastro\obj\Debug\net8.0\refint\TesteDeCadastro.dll
+C:\Users\phillype.alves\source\repos\TesteDeCadastro\TesteDeCadastro\obj\Debug\net8.0\TesteDeCadastro.pdb
+C:\Users\phillype.alves\source\repos\TesteDeCadastro\TesteDeCadastro\obj\Debug\net8.0\TesteDeCadastro.genruntimeconfig.cache
+C:\Users\phillype.alves\source\repos\TesteDeCadastro\TesteDeCadastro\obj\Debug\net8.0\ref\TesteDeCadastro.dll
