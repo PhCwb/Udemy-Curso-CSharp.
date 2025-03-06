@@ -1,0 +1,14 @@
+C:\Users\phillype.alves\source\repos\Exercicio136\Exercicio136\bin\Debug\net8.0\Exercicio136.exe
+C:\Users\phillype.alves\source\repos\Exercicio136\Exercicio136\bin\Debug\net8.0\Exercicio136.deps.json
+C:\Users\phillype.alves\source\repos\Exercicio136\Exercicio136\bin\Debug\net8.0\Exercicio136.runtimeconfig.json
+C:\Users\phillype.alves\source\repos\Exercicio136\Exercicio136\bin\Debug\net8.0\Exercicio136.dll
+C:\Users\phillype.alves\source\repos\Exercicio136\Exercicio136\bin\Debug\net8.0\Exercicio136.pdb
+C:\Users\phillype.alves\source\repos\Exercicio136\Exercicio136\obj\Debug\net8.0\Exercicio136.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phillype.alves\source\repos\Exercicio136\Exercicio136\obj\Debug\net8.0\Exercicio136.AssemblyInfoInputs.cache
+C:\Users\phillype.alves\source\repos\Exercicio136\Exercicio136\obj\Debug\net8.0\Exercicio136.AssemblyInfo.cs
+C:\Users\phillype.alves\source\repos\Exercicio136\Exercicio136\obj\Debug\net8.0\Exercicio136.csproj.CoreCompileInputs.cache
+C:\Users\phillype.alves\source\repos\Exercicio136\Exercicio136\obj\Debug\net8.0\Exercicio136.dll
+C:\Users\phillype.alves\source\repos\Exercicio136\Exercicio136\obj\Debug\net8.0\refint\Exercicio136.dll
+C:\Users\phillype.alves\source\repos\Exercicio136\Exercicio136\obj\Debug\net8.0\Exercicio136.pdb
+C:\Users\phillype.alves\source\repos\Exercicio136\Exercicio136\obj\Debug\net8.0\Exercicio136.genruntimeconfig.cache
+C:\Users\phillype.alves\source\repos\Exercicio136\Exercicio136\obj\Debug\net8.0\ref\Exercicio136.dll
